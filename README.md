@@ -40,4 +40,4 @@ Contributions are what make the open-source community such an amazing place to l
 ## 📫 Contact
 Maan Patel - [LinkedIn](https://www.linkedin.com/in/maan-patel-9ba0322ab) - [Email](mailto:maanpatel386@gmail.com)
 
-Project Link: https://github.com/maan-2605/trainig-studio
+Project Link: https://github.com/maan-2605/training-studio
